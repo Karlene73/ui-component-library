@@ -1,0 +1,16 @@
+{
+  "name": "my-custom-product-cards",
+  "version": "1.0.0",
+  "description": "A showcase for custom product cards",
+  "main": "index.js",  
+  "scripts": {
+   "build:css": "sass src/style.scss dist/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.89.2"
+  }
+}
+
